@@ -1,1 +1,2 @@
 Hello world!
+Git log 2, now with more branching!
